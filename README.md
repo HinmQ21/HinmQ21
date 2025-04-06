@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Minh</h1>
-<h3 align="center">A passionate AI/deep learning learner from VietNam</h3>
+<h3 align="center">A passionate AI/deep learning learner</h3>
 
 - 🔭 I’m currently working at **VNU - UET**
 

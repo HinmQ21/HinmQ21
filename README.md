@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **VNU - UET**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML/DL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
